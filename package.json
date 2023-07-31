@@ -1,0 +1,25 @@
+{
+  "name": "test-repository",
+  "version": "1.0.0",
+  "description": "Hosting index.html in dist folder",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RoBinee/test-repository.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RoBinee/test-repository/issues"
+  },
+  "homepage": "https://github.com/RoBinee/test-repository#readme",
+  "dependencies": {
+    "webpack": "^5.88.2",
+    "webpack-cli": "^5.1.4"
+  }
+}
